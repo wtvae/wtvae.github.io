@@ -1,12 +1,12 @@
 ---
-layout: blog
-book: true
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/91630214.jpg
-category: 旅游
-title: liberxue读过书|在读的书
+layout: bl
+book: tr
+background-image: http://ott.clouddn.com/17-7-16/91630214.jpg
+category: 
+title: liberxue读过书|在
 tags:
-- 书籍
-- book
+- 
+- 
 - liberxue读过书
 redirect_from:
   - /旅游/1970-01-01-bookindex.md
